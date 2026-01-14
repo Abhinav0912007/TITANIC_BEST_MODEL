@@ -27,6 +27,7 @@ K-Nearest Neighbors (KNN)
 Usage
 
 Data preprocessing: Handle missing values, encode categorical variables, and normalize/scale features.
+READY TO SUBMIT TO KAGGLE
 
 Train models: Run the provided script/notebook to train multiple algorithms.
 
